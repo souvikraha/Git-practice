@@ -1,6 +1,6 @@
 # Local .terraform directories
 .terraform/
-
+# 29.03.2026
 # .tfstate files
 *.tfstate
 *.tfstate.*
