@@ -48,3 +48,10 @@ git push
 git commit -m "I have update the file"
 git branch -a
 git clone git@github.com:souvikraha/Git-practice.git
+
+
+
+git checkout -b feature_P6
+git push -u origin feature_P6
+
+###################################
